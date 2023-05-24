@@ -7,7 +7,7 @@
 
 <template>
     <Header></Header>
-    <div class="container-md vh-100">
+    <div class="container-md">
         <div class="container border border-secondary rounded bg-body-tertiary vh-100 mt-5">
             <div class="list-group">
                 <Card></Card>
